@@ -1,4 +1,3 @@
-# Test1 Date:September 29, 2023, ID: 301279925  Author: Leah  Alcaraz
 
 firstName, lastName = input("Enter your first name and last name:").split()
 sNumber = input("Enter your student number:")
